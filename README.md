@@ -10,8 +10,14 @@
 * Numpy
 * Scikitlearn
 
+### Data Summary
+
+![Data Head](/img/DataHead.PNG)
+
+
+### Variables Heatmap
 ![Heatmap](/img/Heatmap.PNG)
-Format: ![Alt Text](url)
+
 
 ### Prepare the LSTM model for training
 
@@ -33,5 +39,8 @@ model.compile(loss = 'mean_squared_error',
               optimizer = "adam")
 model.summary()
 
-
 ```
+
+### Model Summary
+
+![Model](/img/Model.PNG)
