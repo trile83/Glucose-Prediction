@@ -4,11 +4,11 @@
 ### Using recurrent neural network for deep learn model
 
 ## Requirements: 
-Python 3.6
-Tensorflow 1.12
-Pandas 
-Numpy
-Scikitlearn
+* Python 3.6
+* Tensorflow 1.12
+* Pandas 
+* Numpy
+* Scikitlearn
 
 ![Heatmap](/img/Heatmap.PNG)
 Format: ![Alt Text](url)
