@@ -55,3 +55,12 @@ Plotting actual glucose level and predicted glucose level
 
 ![Prediction vs Actual](/img/PredictionVsActual.PNG)
 
+## Using Random Forest Regressor
+
+### Evaluating Model performance
+
+RMSE = 38.39601968742631
+
+Plotting actual glucose level and predicted glucose level
+
+![Prediction vs Actual](/img/PredictionVsActualRF.PNG)
