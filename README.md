@@ -72,3 +72,12 @@ Plotting actual glucose level and predicted glucose level
 RMSE = 36.07934980597454
 
 ![Prediction vs Actual Linear Regresion](/img/PredictionVsActualLR.PNG)
+
+
+## Using LSTM and Glucose value in 30 minutes window to predict next glucose value
+
+### Model Performance
+
+RMSE = 12.16831690630548
+
+![Prediction vs Actual Glucose](/img/PredictionVsActualGlucose.PNG)
