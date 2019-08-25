@@ -63,4 +63,12 @@ RMSE = 38.39601968742631
 
 Plotting actual glucose level and predicted glucose level
 
-![Prediction vs Actual](/img/PredictionVsActualRF.PNG)
+![Prediction vs Actual Random Forest](/img/PredictionVsActualRF.PNG)
+
+## Using Linear Regression
+
+### Evaluating Model performance
+
+RMSE = 36.07934980597454
+
+![Prediction vs Actual Linear Regresion](/img/PredictionVsActualLR.PNG)
